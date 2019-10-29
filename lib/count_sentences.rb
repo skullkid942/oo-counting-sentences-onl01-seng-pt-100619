@@ -12,7 +12,7 @@ class String
   end
 
   def question?
-
+    
   end
 
   def exclamation?
